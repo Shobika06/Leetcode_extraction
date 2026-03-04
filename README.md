@@ -10,6 +10,7 @@
 | [2413-smallest-even-multiple](https://github.com/Shobika06/Leetcode_extraction/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Shobika06/Leetcode_extraction/tree/main/2427-number-of-common-factors/) | Easy |
 | [2582-pass-the-pillow](https://github.com/Shobika06/Leetcode_extraction/tree/main/2582-pass-the-pillow/) | Easy |
+| [2651-calculate-delayed-arrival-time](https://github.com/Shobika06/Leetcode_extraction/tree/main/2651-calculate-delayed-arrival-time/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
