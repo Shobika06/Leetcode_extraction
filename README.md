@@ -11,6 +11,7 @@
 | [2427-number-of-common-factors](https://github.com/Shobika06/Leetcode_extraction/tree/main/2427-number-of-common-factors/) | Easy |
 | [2582-pass-the-pillow](https://github.com/Shobika06/Leetcode_extraction/tree/main/2582-pass-the-pillow/) | Easy |
 | [2651-calculate-delayed-arrival-time](https://github.com/Shobika06/Leetcode_extraction/tree/main/2651-calculate-delayed-arrival-time/) | Easy |
+| [2806-account-balance-after-rounded-purchase](https://github.com/Shobika06/Leetcode_extraction/tree/main/2806-account-balance-after-rounded-purchase/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
