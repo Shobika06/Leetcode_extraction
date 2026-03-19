@@ -32,4 +32,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Shobika06/Leetcode_extraction/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/Shobika06/Leetcode_extraction/tree/main/0191-number-of-1-bits/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/Shobika06/Leetcode_extraction/tree/main/0191-number-of-1-bits/) | Easy |
 <!---LeetCode Topics End-->
