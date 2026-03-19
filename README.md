@@ -28,4 +28,8 @@
 | [1952-three-divisors](https://github.com/Shobika06/Leetcode_extraction/tree/main/1952-three-divisors/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Shobika06/Leetcode_extraction/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Shobika06/Leetcode_extraction/tree/main/2427-number-of-common-factors/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Shobika06/Leetcode_extraction/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 <!---LeetCode Topics End-->
